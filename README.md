@@ -86,11 +86,6 @@ generally a good idea to pursue feedback from other project developers
 beforehand, to ascertain that the RFC may be desirable; having a consistent
 impact on the project requires concerted effort toward consensus-building.
 
-The most common preparations for writing and submitting an RFC include talking
-the idea over on [#sawtooth](https://chat.hyperledger.org/channel/sawtooth) and
-proposing ideas to the Hyperledger Sawtooth mailing list
-(https://lists.hyperledger.org/mailman/listinfo/hyperledger-stl).
-
 As a rule of thumb, receiving encouraging feedback from long-standing project
 developers, and particularly members of the relevant [sub-team] is a good
 indication that the RFC is worth pursuing.
@@ -145,10 +140,8 @@ merged into the RFC repository as a markdown file. At that point the RFC is
     this is often the point at which many subteam members first review the RFC
     in full depth.
   - The FCP lasts one week, or seven calendar days. It is also advertised
-    widely, e.g. in [Sawtooth Mailing
-    List](https://lists.hyperledger.org/mailman/listinfo/hyperledger-stl). This
-    way all stakeholders have a chance to lodge any final objections before
-    a decision is reached.
+    widely. This way all stakeholders have a chance to lodge any final objections
+    before a decision is reached.
   - In most cases, the FCP period is quiet, and the RFC is either merged or
     closed. However, sometimes substantial new arguments or ideas are raised,
     the FCP is canceled, and the RFC goes back into development mode.
@@ -225,10 +218,7 @@ The process is intended to be as lightweight as reasonable for the present
 circumstances. As usual, we are trying to let the process be driven by
 consensus and community norms, not impose more structure than necessary.
 
-
-[developer discussion forum]: https://chat.hyperledger.org/channel/sawtooth
-[RFC issue tracker]: https://jira.hyperledger.org/projects/STL/issues
-[RFC repository]: https://github.com/hyperledger/sawtooth-rfcs
+[RFC repository]: https://github.com/splintercommunity/sawtooth-rfcs
 
 
 ## License
